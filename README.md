@@ -44,7 +44,10 @@
 	
 	* 工作成果
 	
-		* 了解公司目前作業流程瓶頸，協助規劃與導入系統
+		* 了解公司目前作業流程瓶頸，協助規劃與導入系統		
+		* 了解公司目前資安狀況，參與業界相關資安研討會，並協助規劃資安架構		
+		* 了解如何運用Google Cloud Platform快速建置LAMP架構並研究如何快速備份Wordpress
+		
 	
 
 ## 作品
@@ -84,8 +87,8 @@
 	
 ## 相關連結
 
-	* Github：https://github.com/happylearnerOne
-	
-	* LinkedIn：https://www.linkedin.com/in/fang-yu-sammie-lin-22868536/
+* Github：https://github.com/happylearnerOne
 
-	* Wordpress：https://happylearnerblog.wordpress.com/
+* LinkedIn：https://www.linkedin.com/in/fang-yu-sammie-lin-22868536/
+
+* Wordpress：https://happylearnerblog.wordpress.com/
