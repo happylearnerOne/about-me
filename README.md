@@ -44,6 +44,8 @@
 	
 	* 工作成果
 	
+		* 了解公司目前作業流程瓶頸，協助規劃與導入系統
+	
 
 ## 作品
 * 龍成精密形象網站 (ReactJS / Bootstrap / Material-UI)
@@ -74,5 +76,16 @@
 	
 	* 原始碼：https://github.com/happylearnerOne/open1999.git
 
-* 
+* MyMvcProject (ASP.NET MVC5 / PostgreSQL)
 
+	* 原始碼：https://github.com/happylearnerOne/MyMvcProject.git
+	
+	* 試著結合Entity Framework及ADO.NET抓取資料的方式取得DB資料
+	
+## 相關連結
+
+	* Github：https://github.com/happylearnerOne
+	
+	* LinkedIn：https://www.linkedin.com/in/fang-yu-sammie-lin-22868536/
+
+	* Wordpress：https://happylearnerblog.wordpress.com/
