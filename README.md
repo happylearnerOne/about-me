@@ -8,7 +8,7 @@
 * 曾參多項ERP開發及導入專案，特別擅長財務系統
 * 了解如何操作Oracle資料庫以及調整SQL優化執行效能；擅長使用Oracle Developer開發Client Server程式
 * 了解Struts + Tomcat + JAVA開發架構，並曾參與相關技術專案開發
-* 了解ASP.NET MVC，並曾使用MVC及Web API技術餐與相關專案開發
+* 了解ASP.NET MVC，並曾使用MVC及Web API技術參與相關專案開發
 * 了解JS基本語法，目前比較偏向操作框架，例如: AngularJS, Angular, ReactJS
 * 了解CSS基本語法，目前多數使用Bootstrap, Semantic-UI, Material-UI快速設計網頁
 * 能利用AJAX取得JSON資料並呈現在網頁上
