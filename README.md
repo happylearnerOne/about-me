@@ -17,5 +17,20 @@
 * 了解如何利用Google.ai建置chatbot
 * 了解如何使用Python擷取網頁資料
 
-## 作品
+## 工作經歷
+* 
 
+## 作品
+* 龍成精密形象網站 (ReactJS + Bootstrap + Material-UI)
+
+  * 原始碼：https://git.heroku.com/uopmotors.git
+  
+  * 網站：http://www.uopmotors.com
+  
+* 龍成精密形象網站 (AngularJS + Bootstrap)
+
+  * 原始碼：https://git.heroku.com/uopmotors-angularjs.git
+  
+  * 網站：https://uopmotors-angularjs.herokuapp.com/
+
+*
