@@ -24,17 +24,24 @@
 
 	* 2004/06 ~ 2016/11
 	
-	* 專案經理
+	* 工程師-->分析師-->專案經理
 	
 	* 參與專案
 		
-		* 鋼鐵業ERP及IFRS開發及導入
-		* 購物中心ERP開發及導入
-		* 主題樂園ERP開發及導入
+		* 鋼鐵業ERP及IFRS開發導入
+		* 購物中心ERP開發導入		
+		* 購物中心專櫃合約及POS系統開發導入
+		* 主題樂園ERP開發導入
 		* 飯店餐廳預約訂桌及空間排位管理系統
 		* 國際中小學校務行政系統
 		* 大學會計出納系統
 		* 知識管理及文控管理系統
+
+	* 工作成果
+	
+		* 降低系統維運成本：叫修事件降低40%
+		* 系統執行效能及正確性提升：報表印製速度提升100% 
+		* 專案經理任內順利按時完成 7 項新案與 2 項系統架構調整案
 			
 * 百年翻譯社
 
@@ -68,8 +75,8 @@
   * 原始碼：https://github.com/happylearnerOne/bn-translator.git
   
 * bn-translator-mariadb (Angular4 / Semantic-UI / MariaDB / AgGrid)
-  
-  * 原始碼：https://github.com/happylearnerOne/bn-translator-mariadb.git
+
+	* 原始碼：https://github.com/happylearnerOne/bn-translator-mariadb.git
 	
 	* 原始碼：https://github.com/happylearnerOne/bn-translator-mariadb-redux.git 加上其他UI套件
 	
