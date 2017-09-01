@@ -79,8 +79,6 @@
 	* 原始碼：https://github.com/happylearnerOne/bn-translator-mariadb.git
 	
 	* 原始碼：https://github.com/happylearnerOne/bn-translator-mariadb-redux.git 加上其他UI套件
-	
-* bn-translator-mariadb (Angular4 / Semantic-UI / MariaDB)
   
 * open1999 (Angular4 / Google Map / Bootstrap)
 	
