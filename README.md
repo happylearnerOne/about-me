@@ -76,7 +76,7 @@
   
   * 網站：http://www.uopmotors.com
   
-* 龍成精密形象網站 (AngularJS / Bootstrap)
+* 龍成精密形象網站-舊版 (AngularJS / Bootstrap)
   
   * 原始碼：https://github.com/happylearnerOne/uopmotors-angularjs.git
   
