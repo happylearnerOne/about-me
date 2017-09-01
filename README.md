@@ -23,14 +23,18 @@
 ## 作品
 * 龍成精密形象網站 (ReactJS + Bootstrap + Material-UI)
 
-  * 原始碼：https://git.heroku.com/uopmotors.git
+  * 原始碼：https://github.com/happylearnerOne/uopmotors.git
   
   * 網站：http://www.uopmotors.com
   
 * 龍成精密形象網站 (AngularJS + Bootstrap)
-
-  * 原始碼：https://git.heroku.com/uopmotors-angularjs.git
+  
+  * 原始碼：https://git.heroku.com/uopmotors-angularjs.git
   
-  * 網站：https://uopmotors-angularjs.herokuapp.com/
+  * 網站：https://uopmotors-angularjs.herokuapp.com/
 
-*
+* bn-translator
+
+  * 原始碼：https://github.com/happylearnerOne/bn-translator.git
+  
+* ddd
