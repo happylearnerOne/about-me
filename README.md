@@ -53,7 +53,7 @@
 			
 * 百年翻譯社
 
-	* 2017/07 ~ 
+	* 2017 ~ 
 
 	* 資訊工程師
 	
@@ -72,8 +72,6 @@
 	* 2017/08/02 台北101 Google辦公室 / 思想科技創新研討會：Google 機器學習 & 人工智能(AI) 對企業可帶來的轉變
 	* 2017/08/10 高雄寒軒飯店 / iThome 「Don't Cry！企業面對勒索軟體的自救之道」 
 	* 2017/09/06 台北國際會議中心 / 趨勢科技：CLOUDSEC TAIWAN 2017 企業資安高峰論壇
-
-
 
 ## 作品
 * 龍成精密形象網站 (ReactJS / Bootstrap / Material-UI)
@@ -107,6 +105,9 @@
 	* 原始碼：https://github.com/happylearnerOne/MyMvcProject.git
 	
 	* 試著結合Entity Framework及ADO.NET抓取資料的方式取得DB資料
+	
+## 其他成就
+* 使用Google Cloud Platform相關Solution時，發現Bitmani提供的Wordpress Solution有Bug會導致虛擬機器重新啟動後再也無法登入連線系統。為此我到Bitmani的官網上發出issue與該公司工程師討論各種狀況，最終成功於2017/08/25協助他們找到Bug修改程式。
 	
 ## 相關連結
 
