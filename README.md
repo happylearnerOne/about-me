@@ -107,7 +107,7 @@
 	* 試著結合Entity Framework及ADO.NET抓取資料的方式取得DB資料
 	
 ## 其他成就
-* 使用Google Cloud Platform相關Solution時，發現Bitmani提供的Wordpress Solution有Bug會導致虛擬機器重新啟動後再也無法登入連線系統。為此我到Bitmani的官網上發出issue與該公司工程師討論各種狀況，最終成功於2017/08/25協助他們找到Bug修改程式。
+* 使用Google Cloud Platform相關Solution時，發現Bitmani提供的Wordpress Solution有Bug會導致虛擬機器重新啟動後再也無法登入連線系統。為此我到Bitmani的官網上發出issue與該公司工程師討論各種狀況，最終協助他們找到Bug並配合測試。
 	
 ## 相關連結
 
